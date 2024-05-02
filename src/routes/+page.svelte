@@ -1,5 +1,5 @@
 <script>
-  import { Hero, Carrousel, Link, AnimationCard, WhatWeDo, GiftCard } from '$lib/index'
+  import { Hero, Carrousel, Link, AnimationCard, WhatWeDo } from '$lib/index'
   export let data
   const newData = data?.landingPage?.[0].sectionCollection.items
 </script>
@@ -18,8 +18,6 @@
 
 <h2>What We DO</h2>
 <WhatWeDo items={newData?.[5].carrouselCollection?.items} />
-
-<GiftCard items={newData?.[6]} />
 
 <style>
   h2 {

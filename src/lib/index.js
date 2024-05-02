@@ -16,7 +16,6 @@ export { default as Hero } from '$lib/components/organisms/Hero.svelte'
 export { default as Carrousel } from '$lib/components/organisms/Carrousel.svelte'
 export { default as WhatWeDo } from '$lib/components/organisms/WhatWeDo.svelte'
 export { default as AnimationCard } from '$lib/components/organisms/AnimationCard.svelte'
-export { default as GiftCard } from '$lib/components/organisms/Giftcard.svelte'
 
 
 // Templates
