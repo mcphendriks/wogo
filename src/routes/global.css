@@ -30,14 +30,16 @@
 
   @font-face {
     font-family: 'BemboItalic';
-    font-style: normal;
-    font-style: italic;
-    src: url('/fonts/bembo-italic.woff2') format('woff2'),
-         url('/fonts/bembo-italic.woff') format('woff'); 
+    src: url('/fonts/Bembo-Bold-Font.ttf') format('truetype'),
+  }
+
+  @font-face {
+    font-family: 'Lulo';
+    src: url('/fonts/Lulo\ Clean\ W01\ One\ Bold.ttf') format('truetype'),
   }
   
   body {
-    font-family: 'BemboItalic', Arial, Helvetica,sans-serif;
+    font-family: 'Lulo', Arial, Helvetica,sans-serif;
     background-color: var(--page-bg-color);
   }
 
