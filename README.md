@@ -28,4 +28,3 @@ This project is licensed under the terms of the MIT license.
 ## Links 🔗
 
 [Backlog](https://github.com/orgs/fdnd-agency/projects/29/views/1)
-
