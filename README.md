@@ -3,8 +3,8 @@
 ## Beschrijving 📄
 WOGO Cocktailwalks organiseert culinaire wandeltochten waarbij deelnemers verschillende horecagelegenheden bezoeken. Tijdens deze tochten krijgen de deelnemers op elke locatie een speciaal samengestelde cocktails geserveerd. Het doel van WOGO Cocktailwalks is om een unieke en sociale drinkervaring te bieden, waarbij men kan genieten van diverse creatieve cocktails, terwijl men ook de stad en de horeca beter leert kennen. Dit was een samenwerkingsopdracht. 
 
-**NOG EEN ANDERE MOCKUP IMAGE TOEVOEGEN**
-![detailpage](https://github.com/sannevanseeventer/wogo/assets/112857444/bef34906-9734-42a2-ba87-1d9266f9721a)
+![mockup-wogo2](https://github.com/mcphendriks/wogo/assets/112857444/8a4b6785-f30d-488b-a680-0893cdb2cc2e)
+
 
 ## Kenmerken 🧰
 
